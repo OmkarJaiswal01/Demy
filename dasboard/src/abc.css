@@ -1,0 +1,68 @@
+body{
+    background-color: #f1f2f4;
+}
+
+.lo{
+    height: 40px;
+    width: 120px;
+    text-align: center;
+}
+.sc{
+    width: 500px;
+    border-radius: 4px;
+}
+.logn{
+    height: 24px;
+    width: 24px;
+
+}
+.l{
+    margin-left: 10;
+}
+.m{
+    margin-left: 45px;
+}
+
+
+.b{
+    background-color: aqua;
+}
+
+
+.imgc{
+    height: 140px;
+   
+}
+.hr{
+    width: 200px;
+}
+
+.crd{
+    background-color: #f1f2f4;
+}
+
+.cardh{
+    height: 270px;
+    width: 350px;
+}
+
+.card-center {
+    display: flex;
+    justify-content: center;
+  }
+
+  .reg{
+    height: 500px;
+    width: 360px;
+  }
+
+  .sl{
+    height: 500px;
+  }
+  .pg{
+    width: 2000px;
+  }
+
+.st{
+    position: sticky;
+}

@@ -1,0 +1,39 @@
+.h{
+    height: 500px;
+    width: 100px;
+    background-color: #112c57;
+}
+.b{
+    background-color: #112c57;
+}
+
+.btn{
+    height: 40px;
+    background-color: rgb(16, 184, 199);
+}
+
+.c{
+    width: 100px;
+}
+.model-c{
+    width: 200px;
+}
+
+.head{
+    height: 50px;
+}
+
+.Con{
+    height: 150px;
+    width: 250px;
+}
+
+.f{
+    height: 150px;
+    width: 100%;
+}
+
+.des{
+    height: 50px;
+    width: 100%;
+}
